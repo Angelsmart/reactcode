@@ -1,0 +1,38 @@
+.bigBox{
+			display:flex;
+			justify-content:space-around;
+			width:100%;
+			height:100px;
+			background-color:#ccc;
+		}
+.div{
+		width:200px;
+		height:100px;
+		float: left;
+		background-color:green;
+		line-height: 100px;
+		text-align: center;
+	}
+.span{
+	width: 100%;
+	height: 60px;
+	display: block;
+	background-color:red;
+	line-height: 60px;
+}	
+.btnbox{
+	width: 200px;
+	height: 80px;
+	background-color: deepskyblue;
+}
+.btnbox .btn{
+	width: 100px;
+	height: 60px;
+	display: block;
+}
+.nace_girl{
+	width: 100px;
+	height: 60px;
+	background:yellow;
+	line-height: 60px;
+}
